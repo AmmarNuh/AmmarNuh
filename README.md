@@ -78,15 +78,15 @@
 
 ## Projects
 
-- **[School Management System](https://github.com/yourusername/school-management-system)**
+- **[School Management System](https://github.com/AmmarNuh/school-management-project)**
   - Technologies: Python, Django, SQL, JavaScript, HTML, CSS
   - Description: Developed a comprehensive school management system to efficiently manage school affairs, showcasing data modeling and manipulation skills.
 
-- **[Data Analysis and Visualization Project](https://github.com/yourusername/data-analysis-visualization)**
+- **[Data Analysis and Visualization Project](https://github.com/AmmarNuh/Cleaning-Bank-Marketing-Campaign-Data)**
   - Technologies: Python, SQL, Tableau
   - Description: Developed data analysis and visualization solutions to support business decision-making processes, showcasing proficiency in data analysis, SQL querying, and BI tools.
 
-- **[Ecommerce Dashboard](https://github.com/yourusername/ecommerce-dashboard)**
+- **[Ecommerce Dashboard](https://github.com/AmmarNuh/Standerd_Ecommerce_Website)**
   - Technologies: Python, Django, SQL, JavaScript, HTML, CSS
   - Description: Developed an eCommerce website to showcase products, demonstrating proficiency in web development and database management.
 ###
