@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Noah AMMAR <br><br>- 🔭 I’m working as a Data Engineer.<br>- 📚 I'm currently getting my Google Cloud Certification as an associate cloud engineer ACE.<br>⚡ In my free time, I contribute to open-source projects and stay updated with the latest tech trends.</p>
+<p align="left">I'm AMMAR N. SAMIR<br><br>- 🔭 I’m working as a Data Engineer.<br>- 📚 I'm currently getting my Google Cloud Certification as an associate cloud engineer ACE.<br>⚡ In my free time, I contribute to open-source projects and stay updated with the latest tech trends.</p>
 
 ###
 
